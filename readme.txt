@@ -6,6 +6,6 @@ la API firebase de google.
 servicios de host y base de datos ---> HOSTINGER
 
 se adjunta proyecto completo de la app android
-se adjunta codigo de arduino para implementar en ESP32
+se adjunta codigo de arduino para implementar en ESP32  NOMBRE DE ARCHIVO ---> ESP-32-WEB.INO
 
 ----HECHO POR MARLON SANTIAGO HENAO MORERA----
